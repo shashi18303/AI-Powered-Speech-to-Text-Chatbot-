@@ -1,0 +1,5 @@
+{
+  "name": "EchoAI: Voice & Text Chatbot",
+  "description": "A high-performance AI chatbot powered by Gemini, featuring advanced voice recognition, real-time audio, and text formatting.",
+  "requestFramePermissions": ["microphone"]
+}
